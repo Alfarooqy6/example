@@ -1,0 +1,22 @@
+/*selector {properties: properties-value;}*/
+h2 {
+    color: #5d3b3b;
+}
+img {
+    width: 20px;
+    height: 20px;
+}
+.con li {
+    list-style: none;
+    display: inline;
+    float: left;
+    padding: 5px;    
+}
+li{
+    text-decoration: none;
+
+}
+
+header {
+    background-color: rgba(27, 220, 10, 0.2);
+}
